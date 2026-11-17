@@ -1,0 +1,133 @@
+{
+  "app": {
+    "name": "libs-vue2-leva",
+    "app_group_name": "libs-vue2-leva",
+    "git_repo_url": "",
+    "online_version": "2026.11.16-1",
+    "build_version": "2026.11.16-1"
+  },
+  "version": {
+    "plugin_ver": "4.3.20",
+    "extract_mode": "build",
+    "sub_app_name": "libs-vue2-leva",
+    "sub_app_version": "2026.11.16-1",
+    "src_map": {
+      "webDirPath": "/libs-vue2-leva/hel_dist",
+      "htmlIndexSrc": "/libs-vue2-leva/hel_dist/index.html",
+      "extractMode": "all",
+      "iframeSrc": "",
+      "chunkCssSrcList": [
+        "/libs-vue2-leva/hel_dist/css/chunk-3695c857.2c249e20.css",
+        "/libs-vue2-leva/hel_dist/css/chunk-3da23d8e.2c249e20.css"
+      ],
+      "chunkJsSrcList": [
+        "/libs-vue2-leva/hel_dist/js/runtime.6289469c.js",
+        "/libs-vue2-leva/hel_dist/js/vendor.d39eba64.js",
+        "/libs-vue2-leva/hel_dist/js/app.821b4077.js",
+        "/libs-vue2-leva/hel_dist/js/chunk-3695c857.e69bea59.js",
+        "/libs-vue2-leva/hel_dist/js/chunk-3da23d8e.a3a692c5.js"
+      ],
+      "staticCssSrcList": [],
+      "staticJsSrcList": [
+        "https://cdn.staticfile.org/vue/2.7.16/vue.min.js"
+      ],
+      "relativeCssSrcList": [],
+      "relativeJsSrcList": [],
+      "headAssetList": [
+        {
+          "tag": "staticScript",
+          "append": false,
+          "attrs": {
+            "src": "https://cdn.staticfile.org/vue/2.7.16/vue.min.js"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/css/chunk-3695c857.2c249e20.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/css/chunk-3da23d8e.2c249e20.css",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/js/chunk-3695c857.e69bea59.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/js/chunk-3da23d8e.a3a692c5.js",
+            "rel": "prefetch"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/js/app.821b4077.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/js/runtime.6289469c.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        },
+        {
+          "tag": "link",
+          "append": true,
+          "attrs": {
+            "href": "/libs-vue2-leva/hel_dist/js/vendor.d39eba64.js",
+            "rel": "preload",
+            "as": "script"
+          }
+        }
+      ],
+      "bodyAssetList": [
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/libs-vue2-leva/hel_dist/js/runtime.6289469c.js"
+          }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/libs-vue2-leva/hel_dist/js/vendor.d39eba64.js"
+          }
+        },
+        {
+          "tag": "script",
+          "append": true,
+          "attrs": {
+            "src": "/libs-vue2-leva/hel_dist/js/app.821b4077.js"
+          }
+        }
+      ],
+      "otherSrcList": [
+        "/libs-vue2-leva/hel_dist/index.html"
+      ]
+    },
+    "html_content": "<!DOCTYPE html><html lang=\"\"><head><meta charset=\"utf-8\"><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"><meta name=\"viewport\" content=\"width=device-width,initial-scale=1\"><title>libs-vue2-playground</title><script src=\"https://cdn.staticfile.org/vue/2.7.16/vue.min.js\"></script><link href=\"/libs-vue2-leva/hel_dist/css/chunk-3695c857.2c249e20.css\" rel=\"prefetch\"><link href=\"/libs-vue2-leva/hel_dist/css/chunk-3da23d8e.2c249e20.css\" rel=\"prefetch\"><link href=\"/libs-vue2-leva/hel_dist/js/chunk-3695c857.e69bea59.js\" rel=\"prefetch\"><link href=\"/libs-vue2-leva/hel_dist/js/chunk-3da23d8e.a3a692c5.js\" rel=\"prefetch\"><link href=\"/libs-vue2-leva/hel_dist/js/app.821b4077.js\" rel=\"preload\" as=\"script\"><link href=\"/libs-vue2-leva/hel_dist/js/runtime.6289469c.js\" rel=\"preload\" as=\"script\"><link href=\"/libs-vue2-leva/hel_dist/js/vendor.d39eba64.js\" rel=\"preload\" as=\"script\"></head><body><noscript><strong>We're sorry but @melt-js/libs-vue2-leva doesn't work properly without JavaScript enabled. Please enable it to continue.</strong></noscript><div id=\"app\"></div><script src=\"/libs-vue2-leva/hel_dist/js/runtime.6289469c.js\"></script><script src=\"/libs-vue2-leva/hel_dist/js/vendor.d39eba64.js\"></script><script src=\"/libs-vue2-leva/hel_dist/js/app.821b4077.js\"></script></body></html>"
+  }
+}
