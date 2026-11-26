@@ -29,6 +29,15 @@
 	const PropsPanel = dtlib.PropsPanel;
 	const PropsPlayground = dtlib.PropsPlayground;
 
+	const CodePlayground = dtlib.CodePlayground;
+	const CodePlaygroundDialog = dtlib.CodePlaygroundDialog;
+	const CodePlaygroundEditor = dtlib.CodePlaygroundEditor;
+	const CodePlaygroundRunner = dtlib.CodePlaygroundRunner;
+
+	exports.CodePlayground = CodePlayground;
+	exports.CodePlaygroundDialog = CodePlaygroundDialog;
+	exports.CodePlaygroundEditor = CodePlaygroundEditor;
+	exports.CodePlaygroundRunner = CodePlaygroundRunner;
 	exports.ComponentDocs = ComponentDocs;
 	exports.DemoTabs = DemoTabs;
 	exports.DemoToolbar = DemoToolbar;
