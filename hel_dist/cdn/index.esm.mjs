@@ -30,4 +30,6 @@ const CodePlaygroundDialog = dtlib.CodePlaygroundDialog;
 const CodePlaygroundEditor = dtlib.CodePlaygroundEditor;
 const CodePlaygroundRunner = dtlib.CodePlaygroundRunner;
 
-export { CodePlayground, CodePlaygroundDialog, CodePlaygroundEditor, CodePlaygroundRunner, ComponentDocs, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };
+const DemoStage = dtlib.DemoStage;
+
+export { CodePlayground, CodePlaygroundDialog, CodePlaygroundEditor, CodePlaygroundRunner, ComponentDocs, DemoStage, DemoTabs, DemoToolbar, DownloadExampleButton, PropsPanel, PropsPlayground, ScreenfullButton, SplitPane, dtlib as default, dtlib };
